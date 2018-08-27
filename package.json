@@ -1,0 +1,15 @@
+{
+  "name": "yargs-user-management",
+  "version": "1.0.0",
+  "description": "User maangement app using yargs",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yargs-user-management"
+  },
+  "author": "Kyle C Simmons",
+  "license": "ISC"
+}
